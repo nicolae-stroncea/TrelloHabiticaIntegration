@@ -1,4 +1,4 @@
-# TrelloHabiticaIntegration
+# Integrate Trello with Habitica
 Finish tasks on Trello and they automatically get scored on Habitica when you run the program.
 
 1. Fill the user_details.py file with the api keys and tokens for habitica and trello. Create a list where you put
